@@ -66,6 +66,7 @@ fido.methods
 # :singleton_method, :define_singleton_method, :object_id, :to_enum, :enum_for,
 # :==, :equal?, :!, :!=, :instance_eval, :instance_exec, :__send__, :__id__]
 ```
+[are these .methods methods the 'procedural methods' referred to below?  This next line downplays the concept, whereas I think the curriculum should recognize the vast ability that Ruby includes 'below the surface', instead of "not interesting".]
 
 As you can see, out of the box, our objects can do a lot of things. Where these things come from and what they do are not so important right now because all of that functionality is very low level and not interesting to our Dogs.
 
